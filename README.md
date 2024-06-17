@@ -24,8 +24,7 @@ Explore my page to know more about me! 👾
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hugo.hamet@proton.me)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-hamet)
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- 01000011 00110011 01011001 00101001 01001111 01000001 01010101 00110111 01101100 01110011 01000100 01100100 01101110 00101111 01101010 01001001 01011000 01000111 01010010 01001101 01000000 00111010 00110001 00110011 01100110 01000011 01000010 -->
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$
 
 > [!TIP]
 > Here again? No but really, I assure you that rereading the subject one more time won’t do
