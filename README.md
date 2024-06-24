@@ -19,6 +19,10 @@ Explore my page to know more about me! 👾
 > Trying to get out of private-only repositories.\
 > ![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=hugo-hamet&theme=blue-green)
 
+## 👾 • Hacking <a href="hacking"></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Hopecalypse.png" alt="TryHackMe">\
+Currently trying to create my own box on [Tryhackme](https://tryhackme.com).
+
 ## 📬 • Contact me <a href="contact"></a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hugo.hamet@proton.me)
