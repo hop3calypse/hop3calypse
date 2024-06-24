@@ -2,6 +2,7 @@
 
 Welcome on my profile! I'm mainly interested in **cybersecurity** and **AI**.\
 I want to be able to contribute to ideas and innovative projects that inspire people, just like others inspire me.
+<!-- test -->
 
 I'm an active member of these associations:
 * [@PoCInnovation](https://github.com/PoCInnovation), in the cybersecurity team. Currently working on the [Pathwar project](https://github.com/pathwar/pathwar).
@@ -21,14 +22,14 @@ Explore my page to know more about me! 👾
 
 ## 👾 • Hacking <a href="hacking"></a>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Hopecalypse.png" alt="TryHackMe">\
-Currently creating my own box on [Tryhackme](https://tryhackme.com).
+Currently creating my own themed box on [Tryhackme](https://tryhackme.com).
 
 ## 📬 • Contact me <a href="contact"></a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hugo.hamet@proton.me)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-hamet)
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 > [!TIP]
 > Here again? No but really, I assure you that rereading the subject one more time won’t do
