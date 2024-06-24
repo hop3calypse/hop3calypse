@@ -21,7 +21,7 @@ Explore my page to know more about me! 👾
 
 ## 👾 • Hacking <a href="hacking"></a>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Hopecalypse.png" alt="TryHackMe">\
-Currently trying to create my own box on [Tryhackme](https://tryhackme.com).
+Currently creating my own box on [Tryhackme](https://tryhackme.com).
 
 ## 📬 • Contact me <a href="contact"></a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
