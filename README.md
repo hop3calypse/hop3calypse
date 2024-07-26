@@ -14,7 +14,14 @@ Explore my page to know more about me! 👾
 ― Edward Snowden
 
 ## 🛠️ • Languages & Tools <a href="tools"></a>
- 
+
+[![Languages](https://skillicons.dev/icons?i=c,py,bash,rust,html,css,cs,java)](#tools)\
+[![Tools](https://skillicons.dev/icons?i=git,vscode,vim,emacs,docker)](#tools)
+
+Other things I know how to use (no particular order):
+
+[![Tools](https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,figma)](#tools)
+
 ## 🚧 • Ongoing projects <a href="projects"></a>
 
 > Trying to get out of private-only repositories.\
