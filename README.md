@@ -25,18 +25,14 @@ Other things I know how to use (no particular order):
 ## 🚧 • Ongoing projects <a href="projects"></a>
 
 > Trying to get out of private-only repositories.\
-> ![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=hugo-hamet&theme=blue-green)
+> ![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=hop3calypse&theme=blue-green)
 
 ## 👾 • Hacking <a href="hacking"></a>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Hopecalypse.png" alt="TryHackMe">\
 Currently creating my own themed box on [Tryhackme](https://tryhackme.com).
 
 ## 📬 • Contact me <a href="contact"></a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hugo.hamet@proton.me)
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-hamet)
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> <a href="https://fauux.neocities.org/login"><img src="https://wiredcollective.neocities.org/images/login_ani.gif"/><a>
 
 > [!TIP]
 > Here again? No but really, I assure you that rereading the subject one more time won’t do
