@@ -15,8 +15,8 @@ Explore my page to know more about me! 👾
 
 ## 🛠️ • Languages & Tools <a href="tools"></a>
 
-[![Languages](https://skillicons.dev/icons?i=c,py,bash,rust,html,css,cs,java)](#tools)\
-[![Tools](https://skillicons.dev/icons?i=git,vscode,vim,emacs,docker)](#tools)
+[![Languages](https://skillicons.dev/icons?i=c,py,bash,html,css,cs,rust,lua,)](#tools)\
+[![Tools](https://skillicons.dev/icons?i=git,docker,vim,vscode)](#tools)
 
 Other things I know how to use (no particular order):
 
