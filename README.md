@@ -20,7 +20,7 @@ Explore my page to know more about me! 👾
 
 Other things I know how to use (no particular order):
 
-[![Tools](https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,figma)](#tools)
+[![Tools](https://skillicons.dev/icons?i=gamemakerstudio,figma)](#tools)
 
 ## 🚧 • Ongoing projects <a href="projects"></a>
 
