@@ -6,7 +6,7 @@ I want to be able to contribute to ideas and innovative projects that inspire pe
 
 I'm an active member of these associations:
 * [@PoCInnovation](https://github.com/PoCInnovation), in the cybersecurity team. Currently working on a [Remote Access Trojan](https://en.wikipedia.org/wiki/Remote_desktop_software#RAT) for mobile.
-* [@E-mma](https://github.com/E-mma), where I help people learn computer science through diverse events.
+* [@E-mma](https://www.e-mma.org), where I help people learn computer science through diverse events.
 
 Explore my page to know more about me! 👾
 
