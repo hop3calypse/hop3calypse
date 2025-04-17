@@ -25,9 +25,9 @@ Other things I know how to use (no particular order):
 > Trying to get out of private-only repositories.\
 > ![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=hop3calypse&theme=blue-green)
 
-## 👾 • Hacking <a href="hacking"></a>
+## 👾 • Cybersecurity <a href="security"></a>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Hopecalypse.png" alt="TryHackMe">\
-Currently creating my own themed box on [Tryhackme](https://tryhackme.com).
+Currently creating my own themed box on [Tryhackme](https://tryhackme.com/p/Hopecalypse).
 
 ## 📬 • Contact me <a href="contact"></a>
 > <a href="https://fauux.neocities.org/login"><img src="https://wiredcollective.neocities.org/images/login_ani.gif"/><a>
