@@ -1,4 +1,5 @@
-Welcome! I'm mainly interested in **cybersecurity** and **AI**.\
+Welcome! I'm mainly interested in **cybersecurity** and **artificial intelligence**. But tech isn't everything. I like a lot of other stuff that doesn't really belong on github, for now.
+
 I want to be able to contribute to ideas and innovative projects that inspire people, just like others inspire me.
 
 *There's a secret hidden here, shh...*
