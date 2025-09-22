@@ -19,8 +19,7 @@ Other things I know how to use (no particular order):
 
 ## 🚧 • Ongoing projects <a href="projects"></a>
 
-> Trying to get out of private-only repositories.\
-> ![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=hop3calypse&theme=blue-green)
+> Trying to get out of private-only repositories.
 
 ## 👾 • Cybersecurity <a href="security"></a>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Hopecalypse.png" alt="TryHackMe">\
