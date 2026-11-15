@@ -10,7 +10,7 @@ I'm mainly interested in **cybersecurity** and **artificial intelligence**.
 
 ## 🛠️ • Languages & Tools <a href="tools"></a>
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,py,bash,rust,java,lua)](#tools)\
+[![Languages](https://skillicons.dev/icons?i=c,cpp,py,bash,java,rust,lua)](#tools)\
 [![Tools](https://skillicons.dev/icons?i=git,docker,vim,vscode)](#tools)
 
 Other things I know how to use (no particular order):
